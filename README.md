@@ -94,6 +94,8 @@ npm install
 
 # Run the development server
 npm run dev
+
+Create a .env file using .env.example and add your API keys.
 ```
 
 📂 Project Structure
